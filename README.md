@@ -4,7 +4,7 @@ This is a simple 3 axis stepper motor Arduino Shield for the [DRV8825 Step Stick
 It works with [GRBL](https://github.com/grbl/grbl) on an [Aruduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) or [TinyG](https://github.com/synthetos/g2) on an [Arduino Due](https://store.arduino.cc/usa/arduino-due). 
 The circuit board for this shield is single-sided and can be milled on a precision CNC machine using a 1/32" endmill.  
 
-![shield](https://raw.github.com/jw4rd/stepper/master/img/stepper_shield2.jpg  
+![shield](https://raw.github.com/jw4rd/stepper/master/img/stepper_shield2.jpg)  
 
 To get started, select 'stepper shield' in the 'projects' list in the app below to access the design and click 'Make' to download the cut file for your milling machine.  
 [Shield Milling App](http://jw4rd.github.io/shieldMill/)  
