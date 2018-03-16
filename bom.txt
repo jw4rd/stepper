@@ -27,7 +27,7 @@ optional parts
 
 qty 6
 smd bridge rectifiers
-HD01DICT-ND   
+digi-key part# HD01DICT-ND   
 $0.46
 
 qty: 1

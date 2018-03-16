@@ -57,7 +57,7 @@ optional parts
 
 smd bridge rectifier (protection diodes)  
 &nbsp;&nbsp;qty: 6  
-&nbsp;&nbsp;HD01DICT-ND  
+&nbsp;&nbsp;digi-key part# HD01DICT-ND  
 &nbsp;&nbsp;$0.46  
 
 green led SMD 1206  
