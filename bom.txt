@@ -4,7 +4,7 @@ digi-key part# CP-002AHP JCT-ND
 $1.44
 
 qty 3 
-drv8825 step sticks 
+drv8825 step stick
 $3.50
 
 qty: 2
@@ -13,20 +13,20 @@ digi-key part# PCE3916CT-ND
 $0.64
 
 qty: 1
-male header 40 position
+male header 40 pos
 digi-key part# S1011EC-40-ND 
 $0.66
 
 qty: 1
-femal header 50 position
+femal header 50 pos
 digi-key part# SAM1213-50-ND 
 $4.05
 
 optional parts
-(protection diodes, 5v & 24v idicator leds)
+(protection diodes, 5v & 24v indicator leds)
 
 qty 6
-smd bridge rectifiers 
+smd bridge rectifiers
 HD01DICT-ND   
 $0.46
 
@@ -40,4 +40,4 @@ qty: 1
 red led resistor
 
 qty: 1
-resistor 2.99k Ohm resistor
+resistor 2.99k Ohm SMD 1206
