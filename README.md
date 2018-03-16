@@ -28,21 +28,21 @@ There are two designs. One design uses DIP holes for the through hole components
 
 ![shield](https://raw.github.com/jw4rd/stepper/master/img/stepper_shield_8825.png)  
 
-&nbsp;power jack  
+power jack  
 &nbsp;&nbsp;qty: 1  
 &nbsp;&nbsp;digi-key part# CP-002AHP JCT-ND  
 &nbsp;&nbsp;$1.44  
 
-&nbsp;drv8825 Step Stick  
+drv8825 Step Stick  
 &nbsp;&nbsp;qty: 3  
 &nbsp;&nbsp;$3.50  
 
-&nbsp;100uF cap  
+100uF cap  
 &nbsp;&nbsp;qty: 2  
 &nbsp;&nbsp;digi-key part# PCE3916CT-ND  
 &nbsp;&nbsp;$0.64  
 
-&nbsp;male header 40 pos  
+male header 40 pos  
 &nbsp;&nbsp;qty: 1  
 &nbsp;&nbsp;digi-key part# S1011EC-40-ND  
 &nbsp;&nbsp;$0.66  
