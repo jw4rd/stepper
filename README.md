@@ -15,16 +15,16 @@ There are two designs. One design uses DIP holes for the through hole components
 ![shield](https://raw.github.com/jw4rd/stepper/master/img/stepper_shield0.jpg)  
 ![shield](https://raw.github.com/jw4rd/stepper/master/img/stepper_shield1.jpg)  
 
-###rivets
+### rivets
 
 ![shield](https://raw.github.com/jw4rd/stepper/master/img/stepper_shield3.jpg)  
 ![shield](https://raw.github.com/jw4rd/stepper/master/img/stepper_shield4.jpg)  
 
-###pin map
+### pin map
 
 ![shield](https://raw.github.com/jw4rd/stepper/master/img/stepper_shield_pinmap.png)  
 
-###parts
+### parts
 
 ![shield](https://raw.github.com/jw4rd/stepper/master/img/stepper_shield_8825.png)  
 
