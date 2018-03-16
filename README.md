@@ -48,7 +48,7 @@ male header 40 pos
 &nbsp;&nbsp;$0.66  
 
 femal header 50 pos    
-&nbsp;&nbsp;qty: 1
+&nbsp;&nbsp;qty: 1  
 &nbsp;&nbsp;digi-key part# SAM1213-50-ND  
 &nbsp;&nbsp;$4.05  
 
