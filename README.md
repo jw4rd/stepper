@@ -53,9 +53,9 @@ femal header 50 pos
 &nbsp;&nbsp;$4.05  
 
 optional parts  
-&nbsp;&nbsp;(protection diodes, 5v & 24v indicator leds)  
+(protection diodes, 5v & 24v indicator leds)  
 
-smd bridge rectifiers (protection diodes)  
+smd bridge rectifier (protection diodes)  
 &nbsp;&nbsp;qty: 6  
 &nbsp;&nbsp;HD01DICT-ND  
 &nbsp;&nbsp;$0.46  
