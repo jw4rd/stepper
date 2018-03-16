@@ -1,0 +1,43 @@
+qty: 1
+power jack
+digi-key part# CP-002AHP JCT-ND
+$1.44
+
+qty 3 
+drv8825 step sticks 
+$3.50
+
+qty: 2
+100uF caps
+digi-key part# PCE3916CT-ND
+$0.64
+
+qty: 1
+male header 40 position
+digi-key part# S1011EC-40-ND 
+$0.66
+
+qty: 1
+femal header 50 position
+digi-key part# SAM1213-50-ND 
+$4.05
+
+optional parts
+(protection diodes, 5v & 24v idicator leds)
+
+qty 6
+smd bridge rectifiers 
+HD01DICT-ND   
+$0.46
+
+qty: 1
+green led SMD 1206
+
+qty: 1
+resistor 499 Ohm SMD 1206
+
+qty: 1
+red led resistor
+
+qty: 1
+resistor 2.99k Ohm resistor
