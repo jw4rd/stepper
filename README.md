@@ -33,40 +33,40 @@ There are two designs. One design uses DIP holes for the through hole components
 &nbsp;&nbsp;digi-key part# CP-002AHP JCT-ND  
 &nbsp;&nbsp;$1.44  
 
-&nbsp;qty: 3  
-&nbsp;&nbsp;drv8825 step sticks  
+&nbsp;drv8825 Step Stick  
+&nbsp;&nbsp;qty: 3  
 &nbsp;&nbsp;$3.50  
 
-&nbsp;qty: 2  
-&nbsp;&nbsp;100uF caps  
+&nbsp;100uF cap  
+&nbsp;&nbsp;qty: 2  
 &nbsp;&nbsp;digi-key part# PCE3916CT-ND  
 &nbsp;&nbsp;$0.64  
 
-&nbsp;qty: 1
-&nbsp;&nbsp;male header 40 position
-&nbsp;&nbsp;digi-key part# S1011EC-40-ND
-&nbsp;&nbsp;$0.66
+&nbsp;male header 40 pos  
+&nbsp;&nbsp;qty: 1  
+&nbsp;&nbsp;digi-key part# S1011EC-40-ND  
+&nbsp;&nbsp;$0.66  
 
-&nbsp;qty: 1  
-&nbsp;&nbsp;femal header 50 position  
+femal header 50 pos    
+&nbsp;&nbsp;qty: 1
 &nbsp;&nbsp;digi-key part# SAM1213-50-ND  
 &nbsp;&nbsp;$4.05  
 
-&nbsp;optional parts  
+optional parts  
 &nbsp;&nbsp;(protection diodes, 5v & 24v idicator leds)  
 
-&nbsp;smd bridge rectifiers (protection diodes)  
+smd bridge rectifiers (protection diodes)  
 &nbsp;&nbsp;qty: 6  
 &nbsp;&nbsp;HD01DICT-ND  
 &nbsp;&nbsp;$0.46  
 
-&nbsp;green led SMD 1206  
+green led SMD 1206  
 &nbsp;&nbsp;qty: 1  
 
-&nbsp;resistor 499 Ohm SMD 1206  
+resistor 499 Ohm SMD 1206  
 &nbsp;&nbsp;qty: 1  
 
-&nbsp;red led resistor  
+red led SMD 1206  
 &nbsp;&nbsp;qty: 1  
 
 &nbsp;resistor 2.99k Ohm resistor  
